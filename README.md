@@ -1,2 +1,2 @@
-# easybidpro
-AI-powered bid automation platform
+# EasyBid Pro
+AI-powered bid automation platform MVP.
